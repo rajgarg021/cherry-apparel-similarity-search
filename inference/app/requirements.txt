@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+faiss-cpu
+faiss-gpu
+gradio
+Pillow
+requests
+numpy
